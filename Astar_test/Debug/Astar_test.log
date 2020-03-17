@@ -1,0 +1,5 @@
+﻿  Astar.cpp
+  Astar_test.cpp
+  正在生成代码...
+D:\C++\software\Astar_test\Astar_test\Astar.cpp(20,23): warning C4244:  “return”: 从“double”转换到“float”，可能丢失数据
+  Astar_test.vcxproj -> D:\C++\software\Astar_test\Debug\Astar_test.exe

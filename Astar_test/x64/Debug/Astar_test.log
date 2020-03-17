@@ -1,0 +1,5 @@
+﻿  Astar.cpp
+g:\2-27-mpc-for-kaeman\astar_test\astar_test\astar.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Astar_test.cpp
+  Generating Code...
+  Astar_test.vcxproj -> G:\2-27-MPC-for-Kaeman\Astar_test\x64\Debug\Astar_test.exe
